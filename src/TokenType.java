@@ -1,0 +1,6 @@
+ enum TokenType {
+    RESERVED_WORD,
+    USER_DEFINED_NAME,
+    TERMINAL_TOKEN,
+    INTEGER
+}
